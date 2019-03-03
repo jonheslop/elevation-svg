@@ -6,11 +6,15 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "",
-  "license": "ISC",
+  "author": "Jon Heslop <jon@jonheslop.com>",
+  "license": "MIT",
   "dependencies": {
     "imagemin": "^6.1.0",
     "imagemin-svgo": "^7.0.0",
     "meow": "^5.0.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jonheslop/elevation-svg"
   }
 }
